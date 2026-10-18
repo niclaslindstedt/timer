@@ -69,9 +69,18 @@ a backup** opens the share sheet instead, with the file already named: save it
 to Files, AirDrop it, mail it. The website keeps its download. The wrapper is handed the file
 only to show the sheet, and keeps nothing but the latest one in its cache.
 
+## No storage server, for now
+
+The phone app does not offer **your own storage server** for now — the
+owner's decision, until it has been proven on the web: the picker has no such
+option and nothing on the screen names it. The website and the desktop app
+keep it. A phone that was paired with a server under an earlier build opens
+on the copy on the phone, with everything it held; the copy on the server
+stays where it was.
+
 ## Scanning a pairing code
 
-Connecting the app to **your own storage server** takes a pairing code, which
+While the phone app offered the server, connecting it took a pairing code, which
 the server's console or one of your other devices shows as a QR code. In the
 app, the pairing sheet has a **Scan** button: tap it, allow the camera the
 first time, and point the phone at the code. The camera is used for nothing
